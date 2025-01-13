@@ -140,3 +140,5 @@ cypress/downloads/*
 cypress/videos
 
 cypress.env.json
+
+test-results

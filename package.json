@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "cy:open": "cypress open",
+    "playwright:open": "npx playwright test",
     "format:staged": "pretty-quick --staged",
     "lint": "eslint . --fix",
     "prepare": "husky"
