@@ -19,7 +19,7 @@ Verifique se tem estes componentes instalados:
 ### 1. Executar o projeto cypress
 
 ```sh
-npm run cy:open
+npm run playwright:open
 ```
 ````
 
